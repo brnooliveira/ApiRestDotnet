@@ -1,0 +1,6 @@
+@ApiRestUdemy_HostAddress = http://localhost:5096
+
+GET {{ApiRestUdemy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
